@@ -6,6 +6,7 @@ Easily joined with data pertaining to buildings to visualize spatial trends on D
 Last updated 2018 (No Eisner Center or Silverstein Hall).
 
 
+Use Example:
 
 ```{r}
 library(tidyverse)
